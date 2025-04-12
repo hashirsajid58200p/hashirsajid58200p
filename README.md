@@ -1,3 +1,9 @@
+## 👋 Hi, I'm Hashir Sajid
+
+Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web development. I specialize in creating modern, responsive websites and web applications using various technologies like React, Node.js, and others.
+
+Feel free to check out my work and connect with me!
+
 ## 📊 Profile Stats
 [![Hashir Sajid profile views](https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg)](https://u8views.com/github/hs96300k)
 
