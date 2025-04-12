@@ -16,8 +16,6 @@ Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web develo
 **Backend Development:**  
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
 [![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
-[![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000?style=for-the-badge&logo=api&logoColor=white)](https://www.restapitutorial.com/) 
-[![Socket.io](https://img.shields.io/badge/Socket.io-%23333333?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) 
 [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 **Database:**  
