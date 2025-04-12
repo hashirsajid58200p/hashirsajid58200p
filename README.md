@@ -3,7 +3,7 @@
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23626b95?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/hashirsajid)
-[![Website](https://img.shields.io/badge/Website-%23626b95?style=for-the-badge&logo=vercel&logoColor=black)](https://hashirsajid.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-%23626b95?style=for-the-badge&logo=vercel&logoColor=white)](https://hashirsajid.vercel.app/)
 
 ## 🧡 Support Me
 [![Patreon](https://img.shields.io/badge/Patreon-%23626b95?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hs96300k)
