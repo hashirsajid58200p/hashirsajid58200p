@@ -13,3 +13,4 @@
     <img src="https://img.shields.io/badge/Support%20Me%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white">
   </a>
 </p>
+[![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?logo=patreon&logoColor=white)](https://patreon.com/hs96300k)
