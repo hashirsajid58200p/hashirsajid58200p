@@ -8,7 +8,7 @@ Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web develo
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
@@ -32,7 +32,7 @@ Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web develo
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/hashirsajid)
-[![Website](https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=vercel&logoColor=black)](https://hashirsajid.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=vercel&logoColor=white)](https://hashirsajid.vercel.app/)
 
 ## 🧡 Support Me
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hs96300k)
