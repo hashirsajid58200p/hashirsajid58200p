@@ -10,5 +10,5 @@
   </a>
 </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hs96300k)
-[![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?logo=patreon&logoColor=white)](https://patreon.com/hs96300k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashirsajid) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hs96300k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hs96300k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hs96300k@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hs96300k)[![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hs96300k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashirsajid) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hs96300k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hs96300k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hs96300k@gmail.com) 
