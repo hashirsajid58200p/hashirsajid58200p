@@ -1,5 +1,5 @@
 ## 📊 Profile Stats
-[![Hashir Sajid profile views](https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg)](https://u8views.com/github/hs96300k)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hs96300k&theme=discord_old_blurple)
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashirsajid)
