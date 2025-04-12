@@ -2,7 +2,34 @@
 
 Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web development. I specialize in creating modern, responsive websites and web applications using various technologies like React, Node.js, and others.
 
-Feel free to check out my work and connect with me!
+## 🔥 Key Skills & Technologies
+
+**Frontend Development:**  
+[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![MUI](https://img.shields.io/badge/MUI-%230081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/) 
+[![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+
+**Backend Development:**  
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
+[![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000?style=for-the-badge&logo=api&logoColor=white)](https://www.restapitutorial.com/) 
+[![Socket.io](https://img.shields.io/badge/Socket.io-%23333333?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) 
+[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+
+**Database:**  
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2300A900?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23430098?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+**DevOps & Tools:**  
+[![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) 
+[![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) 
+[![Vite](https://img.shields.io/badge/Vite-%2300BFFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) 
+[![Clerk Authentication](https://img.shields.io/badge/Clerk-%2300A1FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.dev/)
 
 ## 📊 Profile Stats
 [![Hashir Sajid profile views](https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg)](https://u8views.com/github/hs96300k)
