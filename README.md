@@ -19,6 +19,6 @@ Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web develo
 [![Website](https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=vercel&logoColor=white)](https://hashirsajid.vercel.app/)
 
 # 🧡 Support Me
-[![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hs96300k)
+# [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/hs96300k)
 
 
