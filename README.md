@@ -4,8 +4,6 @@ Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web develo
 
 # 🔥 Key Skills & Technologies
 
-This section outlines the key skills and technologies I possess.
-
 * **Frontend Development**: HTML5, CSS3, TailwindCSS, JavaScript, React, TypeScript
 * **Backend Development**: Node.js, Express, Firebase, Appwrite
 * **Database**: MongoDB, MySQL, PostgreSQL
