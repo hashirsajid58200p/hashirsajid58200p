@@ -7,3 +7,12 @@
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hs96300k)
+
+## ❤️ You can support my work
+
+<a href="https://www.patreon.com/hs96300k" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Support%20Me%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" 
+    alt="Patreon" 
+    style="border-radius: 12px;" />
+</a>
