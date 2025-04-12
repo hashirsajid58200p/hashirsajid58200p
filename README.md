@@ -6,13 +6,10 @@ Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web develo
 
 This section outlines the key skills and technologies I possess.
 
-* **Frontend Development**: React, Next.js, TypeScript, MUI, Vue
-* **Backend Development**: Node.js, Express, REST APIs, Socket, Supabase, Firebase, Appwrite
+* **Frontend Development**: HTML5, CSS3, TailwindCSS, JavaScript, React, TypeScript
+* **Backend Development**: Node.js, Express, Firebase, Appwrite
 * **Database**: MongoDB, MySQL, PostgreSQL
-* **DevOps & Tools**: AWS, CD/CI, Docker, K8s, Git, MongoDB Atlas, Vite, Clerk Authentication
-* **Blockchain/Bitcoin Development**: Learning but have some experience 
-
----
+* **DevOps & Tools**: Docker, Git, Vite
 
 ## 📊 Profile Stats
 [![Hashir Sajid profile views](https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg)](https://u8views.com/github/hs96300k)
