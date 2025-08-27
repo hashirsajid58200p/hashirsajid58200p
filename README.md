@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Hashir Sajid
 Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web development. I specialize in creating modern, responsive websites and web applications using various technologies like React, Node.js, and others.
 
-## 🔥 Skills & Technologies
+## 🛠️ Skills & Technologies
 * **Frontend Development**: HTML5, CSS3, TailwindCSS, JavaScript, React, TypeScript
 * **Backend Development**: Node.js, Express, Firebase, Appwrite
 * **Database**: MongoDB, MySQL, PostgreSQL
