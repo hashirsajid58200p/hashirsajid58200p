@@ -3,7 +3,7 @@ Hi, I'm Hashir Sajid, and I have more than 1.5 years of experience in web develo
 
 ## 🛠️ Skills & Technologies
 * **Frontend Development**: HTML5, CSS3, TailwindCSS, JavaScript, React, TypeScript
-* **Backend Development**: Node.js, Express, Firebase, Appwrite
+* **Backend Development**: Node.js, Express, Next.js, Firebase, Appwrite, Supabase
 * **Database**: MongoDB, MySQL, PostgreSQL
 * **DevOps & Tools**: Docker, Git, Vite
 
