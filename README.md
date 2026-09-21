@@ -19,7 +19,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>What I've Built</h2>
+<h2><img src="https://api.iconify.design/octicon:rocket-24.svg?color=%2361DAFB&width=22&height=22" width="22" /> What I've Built</h2>
 
 - **Stride** — Full-stack footwear e-commerce with **vector-embedding semantic search**, an **SSE-streamed RAG support chatbot**, encrypted **Stripe checkout** with automated stock decrement, and **AWS infrastructure managed via Terraform**
 - **Aptus AI** — SaaS platform + **published npm package** (`aptus-ai-chatbot-widget`) that turns business FAQs into trained AI chatbots — Groq **LLaMA 3.3**, token-based auth, 14 themes, zero-config embeddable React widget
@@ -28,16 +28,16 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>Tech Stack</h2>
+<h2><img src="https://api.iconify.design/octicon:stack-24.svg?color=%2361DAFB&width=22&height=22" width="22" /> Tech Stack</h2>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -46,9 +46,9 @@ I build production-ready web platforms end-to-end — owning everything from dat
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
 **Databases**
 
@@ -75,7 +75,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>Featured Projects</h2>
+<h2><img src="https://api.iconify.design/octicon:star-24.svg?color=%2361DAFB&width=22&height=22" width="22" /> Featured Projects</h2>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -86,14 +86,11 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>GitHub Analytics</h2>
+<h2><img src="https://api.iconify.design/octicon:graph-24.svg?color=%2361DAFB&width=22&height=22" width="22" /> GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hashirsajid58200p&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashirsajid58200p&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -102,7 +99,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>Let's Connect</h2>
+<h2><img src="https://api.iconify.design/octicon:mail-24.svg?color=%2361DAFB&width=22&height=22" width="22" /> Let's Connect</h2>
 
 I'm open to **full-time roles** and **freelance collaborations** — whether it's a product that needs shipping end-to-end or an AI feature that needs to land in production.
 
