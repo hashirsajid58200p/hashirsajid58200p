@@ -19,7 +19,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>🚀 What I've Built</h2>
+<h2>What I've Built</h2>
 
 - **Stride** — Full-stack footwear e-commerce with **vector-embedding semantic search**, an **SSE-streamed RAG support chatbot**, encrypted **Stripe checkout** with automated stock decrement, and **AWS infrastructure managed via Terraform**
 - **Aptus AI** — SaaS platform + **published npm package** (`aptus-ai-chatbot-widget`) that turns business FAQs into trained AI chatbots — Groq **LLaMA 3.3**, token-based auth, 14 themes, zero-config embeddable React widget
@@ -28,19 +28,33 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css&perline=10)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,dotnet,supabase,firebase,appwrite&perline=10)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=10)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI**
 
@@ -51,12 +65,17 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 **DevOps & Tools**
 
-![DevOps](https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,vite&perline=10)<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
-<h2>⭐ Featured Projects</h2>
+<h2>Featured Projects</h2>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -67,11 +86,14 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
+<h2>GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hashirsajid58200p&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashirsajid58200p&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -80,7 +102,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2>📬 Let's Connect</h2>
+<h2>Let's Connect</h2>
 
 I'm open to **full-time roles** and **freelance collaborations** — whether it's a product that needs shipping end-to-end or an AI feature that needs to land in production.
 
