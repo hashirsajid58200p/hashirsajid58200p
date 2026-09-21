@@ -1,16 +1,16 @@
-&lt;h1 align="center"&gt;Hi, I'm Hashir Sajid&lt;/h1&gt;
+<h1 align="center">Hi, I'm Hashir Sajid</h1>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;2.5%2B+Years+Shipping+to+Production;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;AI-Integrated+Web+Apps" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;2.5%2B+Years+Shipping+to+Production;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;AI-Integrated+Web+Apps" alt="Typing SVG" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work" /&gt;
-  &lt;a href="https://hashirsajid.vercel.app/"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/hashirsajid"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:hs58200p@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.npmjs.com/package/aptus-ai-chatbot-widget"&gt;&lt;img src="https://img.shields.io/npm/dw/aptus-ai-chatbot-widget?style=for-the-badge&logo=npm&label=Weekly%20Downloads" alt="npm downloads" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work" />
+  <a href="https://hashirsajid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hashirsajid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hs58200p@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.npmjs.com/package/aptus-ai-chatbot-widget"><img src="https://img.shields.io/npm/dw/aptus-ai-chatbot-widget?style=for-the-badge&logo=npm&label=Weekly%20Downloads" alt="npm downloads" /></a>
+</p>
 
 I build production-ready web platforms end-to-end — owning everything from database schema to deployed UI. My work spans **e-commerce, SaaS, and AI tooling**: semantic product search with vector embeddings, RAG chatbots streamed over SSE, real-time dashboards over WebSockets, and checkout flows that move real money.
 
@@ -22,7 +22,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-&lt;h2&gt;&lt;img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/rocket-24.svg" width="22" /&gt; What I've Built&lt;/h2&gt;
+<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/rocket-24.svg" width="22" /> What I've Built</h2>
 
 - **Stride** — Full-stack footwear e-commerce with **vector-embedding semantic search**, an **SSE-streamed RAG support chatbot**, encrypted **Stripe checkout** with automated stock decrement, and **AWS infrastructure managed via Terraform**
 - **Aptus AI** — SaaS platform + **published npm package** (`aptus-ai-chatbot-widget`) that turns business FAQs into trained AI chatbots — Groq **LLaMA 3.3**, token-based auth, 14 themes, zero-config embeddable React widget
@@ -31,7 +31,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-&lt;h2&gt;&lt;img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/stack-24.svg" width="22" /&gt; Tech Stack&lt;/h2&gt;
+<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/stack-24.svg" width="22" /> Tech Stack</h2>
 
 **Frontend**
 
@@ -59,7 +59,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-&lt;h2&gt;&lt;img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/star-24.svg" width="22" /&gt; Featured Projects&lt;/h2&gt;
+<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/star-24.svg" width="22" /> Featured Projects</h2>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -70,33 +70,33 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-&lt;h2&gt;&lt;img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/graph-24.svg" width="22" /&gt; GitHub Analytics&lt;/h2&gt;
+<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/graph-24.svg" width="22" /> GitHub Analytics</h2>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=hashirsajid58200p&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hashirsajid58200p&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com?user=hashirsajid58200p&theme=dark" alt="GitHub Streak" /&gt;
-  &lt;img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark" alt="Top Languages" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hashirsajid58200p&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg" alt="Profile Views" />
+</p>
 
 ---
 
-&lt;h2&gt;&lt;img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/mail-24.svg" width="22" /&gt; Let's Connect&lt;/h2&gt;
+<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/mail-24.svg" width="22" /> Let's Connect</h2>
 
 I'm open to **full-time roles** and **freelance collaborations** — whether it's a product that needs shipping end-to-end or an AI feature that needs to land in production.
 
-&lt;p align="center"&gt;
-  &lt;a href="https://hashirsajid.vercel.app/"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/hashirsajid"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:hs58200p@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://hashirsajid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hashirsajid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hs58200p@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-&lt;p align="center"&gt;&lt;i&gt;I care less about lines of code and more about whether what I build actually works for the person using it.&lt;/i&gt;&lt;/p&gt;
+<p align="center"><i>I care less about lines of code and more about whether what I build actually works for the person using it.</i></p>
