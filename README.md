@@ -6,9 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work" />
-  <a href="https://hashirsajid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hashirsajid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hs58200p@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.npmjs.com/package/aptus-ai-chatbot-widget"><img src="https://img.shields.io/npm/dw/aptus-ai-chatbot-widget?style=for-the-badge&logo=npm&label=Weekly%20Downloads" alt="npm downloads" /></a>
 </p>
 
@@ -22,7 +19,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/rocket-24.svg" width="22" /> What I've Built</h2>
+<h2>🚀 What I've Built</h2>
 
 - **Stride** — Full-stack footwear e-commerce with **vector-embedding semantic search**, an **SSE-streamed RAG support chatbot**, encrypted **Stripe checkout** with automated stock decrement, and **AWS infrastructure managed via Terraform**
 - **Aptus AI** — SaaS platform + **published npm package** (`aptus-ai-chatbot-widget`) that turns business FAQs into trained AI chatbots — Groq **LLaMA 3.3**, token-based auth, 14 themes, zero-config embeddable React widget
@@ -31,7 +28,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/stack-24.svg" width="22" /> Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 **Frontend**
 
@@ -54,12 +51,12 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 **DevOps & Tools**
 
-![DevOps](https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,vite&perline=10)
+![DevOps](https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,vite&perline=10)<br>
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
-<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/star-24.svg" width="22" /> Featured Projects</h2>
+<h2>⭐ Featured Projects</h2>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -70,15 +67,11 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/graph-24.svg" width="22" /> GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashirsajid58200p&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hashirsajid58200p&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -87,7 +80,7 @@ I build production-ready web platforms end-to-end — owning everything from dat
 
 ---
 
-<h2><img src="https://cdn.jsdelivr.net/npm/@primer/octicons/build/svg/mail-24.svg" width="22" /> Let's Connect</h2>
+<h2>📬 Let's Connect</h2>
 
 I'm open to **full-time roles** and **freelance collaborations** — whether it's a product that needs shipping end-to-end or an AI feature that needs to land in production.
 
