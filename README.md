@@ -1,14 +1,7 @@
-&lt;div align="center"&gt;
-
-# Hi, I'm Hashir Sajid 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;AI-Integrated+Web+Apps;2.5%2B+Years+Shipping+to+Production)](https://git.io/typing-svg)
-
-**Full-Stack Developer · Web Platforms · AI-Integrated Apps**
-
-&lt;/div&gt;
-
----
+<p align="center">
+  <h1>Hi, I'm Hashir Sajid 👋</h1>
+  <b>Full-Stack Developer · Web Platforms · AI-Integrated Apps</b>
+</p>
 
 I build production-ready web platforms end-to-end — owning everything from database schema to deployed UI. My work spans **e-commerce, SaaS, and AI tooling**: semantic product search with vector embeddings, RAG chatbots streamed over SSE, real-time dashboards over WebSockets, and checkout flows that move real money.
 
@@ -48,9 +41,9 @@ Currently a **Full Stack AI Engineer at Dev Weekends**, with 2+ years of freelan
 
 **AI**
 
-![Groq](https://img.shields.io/badge/Groq_%7C_LLaMA_3.3-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Embeddings-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_%7C_LLaMA_3.3-F55036?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-412991?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Embeddings-000000?style=for-the-badge)
 
 **DevOps & Tools**
 
@@ -66,37 +59,31 @@ Currently a **Full Stack AI Engineer at Dev Weekends**, with 2+ years of freelan
 | Project | Description | Stack |
 |---|---|---|
 | [Stride](https://github.com/hashirsajid58200p?tab=repositories) | E-commerce with semantic vector search, RAG chatbot, Stripe checkout, AWS Terraform IaC | React · Node.js · PostgreSQL · Supabase |
-| [Aptus AI](https://github.com/hashirsajid58200p?tab=repositories) | SaaS + npm widget for FAQ-trained AI chatbots · 14 themes · token auth | Next.js · TypeScript · Groq · MongoDB |
+| [Aptus AI](https://www.npmjs.com/package/aptus-ai-chatbot-widget) | SaaS + npm widget for FAQ-trained AI chatbots · 14 themes · token auth | Next.js · TypeScript · Groq · MongoDB |
 | [R&B Tea USA](https://github.com/hashirsajid58200p?tab=repositories) | Franchise platform · drinks catalogue · store locator · WebSocket admin dashboard | React · Node.js · Express · Tailwind |
 | [Nestoraa](https://github.com/hashirsajid58200p?tab=repositories) | NDIS marketplace · geo-radius search · housemate matching · subscription tiers | ASP.NET Core · C# · JavaScript |
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hashirsajid58200p&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hashirsajid58200p&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirsajid58200p&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Profile Views](https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg)](https://u8views.com/github/hs96300k)
-
-&lt;/div&gt;
+<p align="center">
+  <img src="https://u8views.com/api/v1/github/profiles/161859417/views/day-week-month-total-count.svg" alt="Profile Views" />
+</p>
 
 ## 🤝 Let's Connect
 
 I'm open to **full-time roles** and **freelance collaborations**.
 
-&lt;div align="center"&gt;
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hashirsajid.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashirsajid)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hs58200p@gmail.com)
-
-&lt;/div&gt;
+<p align="center">
+  <a href="https://hashirsajid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hashirsajid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hs58200p@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-&lt;div align="center"&gt;
-
-*I care less about lines of code and more about whether what I build actually works for the person using it.*
-
-&lt;/div&gt;
+<p align="center"><i>I care less about lines of code and more about whether what I build actually works for the person using it.</i></p>
