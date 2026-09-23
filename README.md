@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;2.5%2B+Years+Shipping+to+Production;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;AI-Integrated+Web+Apps" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work" />
-  <a href="https://www.npmjs.com/package/aptus-ai-chatbot-widget"><img src="https://img.shields.io/npm/dw/aptus-ai-chatbot-widget?style=for-the-badge&logo=npm&label=Weekly%20Downloads" alt="npm downloads" /></a>
-</p>
-
 I build production-ready web platforms end-to-end — owning everything from database schema to deployed UI. My work spans **e-commerce, SaaS, and AI tooling**: semantic product search with vector embeddings, RAG chatbots streamed over SSE, real-time dashboards over WebSockets, and checkout flows that move real money.
 
 - **Currently** — Full Stack AI Engineer @ Dev Weekends · Freelancing on Upwork (2+ years)
